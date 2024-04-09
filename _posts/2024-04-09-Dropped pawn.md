@@ -22,6 +22,7 @@ The only possibility is for a white pawn to be on <code>d5</code> and to capture
   <li>They neither moved the king as it would have previously been in a double check.</li>
   <li>The last move must have been <code>...e5</code>, <code>...exf6</code> or <code>...gxf6</code>. In the first case, only a 2-square push would have been possible (note white king's position). Now, the other two moves are impossible: a simple way to see this is that black has already captured exactly two white pieces, because there are 14 white pieces on the board. Moreover, those two captures were accomplished by the pawn on <code>a4</code>. Why? Well, of course that pawn of course must belong to the column <code>c</code> or some posterior one, so it has to have hopped at least twice diagonally. So the last piece to move can't have been the pawn on <code>f6</code>. The only possibility is a 2-square pawn push that allows for <em>en passant</em>.</li>
 </ul>
+Funnily enough, once provided with the complete position (pawn included), Stockfish only evaluates it to mate in two. I musn't be that they didn't give it Smullyan's retrospective problems to read.
 </details>
 
 
