@@ -9,7 +9,7 @@ Some days ago I was watching a chess game and took note of a nice position that 
 
 Below's the board that I showed Elva. A pawn is missing (but only from the board below, i.e. Elva saw the complete board).
 
-![The board](https://github.com/luquiluq/blog/blob/main/docs/assets/comosicion_ajedrez.png)
+![The board](https://raw.githubusercontent.com/luquiluq/blog/main/docs/assets/comosicion_ajedrez.png)
 
 - Can you determine where the missing pawn was?
 - How did Elva spot the mate in one?
