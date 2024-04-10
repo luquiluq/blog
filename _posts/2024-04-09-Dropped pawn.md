@@ -3,6 +3,8 @@ title:
 date: 2024-04-09
 ---
 
+*Compuse este (primer) problema de ajedrez en noviembre de 2022.*
+
 Some days ago I was watching a chess game and took note of a nice position that came up. Later that day, I came across my young sister.
 
 "Elva", I said to her, "look at this board from today's game. White to move. How odd it is!"; to which she answered, sharp as always, "It doesn't seem to have lasted long. Mate in one.". That all happened in a matter of seconds.
